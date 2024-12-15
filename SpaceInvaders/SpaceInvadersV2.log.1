@@ -1,0 +1,23 @@
+Sept 20, 2024 10:41:03 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Sept 20, 2024 10:41:04 PM view.UserView <init>
+SEVERE: Could not create the View
+java.lang.RuntimeException: Uncompilable code - MOVE_SPEED has private access in model.GameSettings
+	at view.UserView.initialiseComponents(UserView.java:114)
+	at view.UserView.<init>(UserView.java:106)
+	at controller.StartApplication.main(StartApplication.java:82)
+
+Sept 20, 2024 10:41:04 PM controller.StartApplication main
+INFO: Connected to DB...
+Sept 20, 2024 10:41:04 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:124)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Sept 20, 2024 10:41:09 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Sept 20, 2024 10:41:09 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.

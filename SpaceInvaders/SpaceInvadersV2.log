@@ -1,0 +1,536 @@
+Aug 19, 2024 10:13:53 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Aug 19, 2024 10:13:54 PM view.UserView <init>
+SEVERE: Could not create the View
+java.lang.RuntimeException: Uncompilable code - cannot find symbol
+  symbol:   variable MOVE_SPEED
+  location: class model.GameSettings
+	at view.UserView.initialiseComponents(UserView.java:1)
+	at view.UserView.<init>(UserView.java:106)
+	at controller.StartApplication.main(StartApplication.java:82)
+
+Aug 19, 2024 10:13:54 PM controller.StartApplication main
+INFO: Connected to DB...
+Aug 19, 2024 10:13:54 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:1)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Aug 20, 2024 9:45:19 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Aug 20, 2024 9:45:20 PM view.UserView <init>
+SEVERE: Could not create the View
+java.lang.RuntimeException: Uncompilable code - MOVE_SPEED has private access in model.GameSettings
+	at view.UserView.initialiseComponents(UserView.java:1)
+	at view.UserView.<init>(UserView.java:106)
+	at controller.StartApplication.main(StartApplication.java:82)
+
+Aug 20, 2024 9:45:20 PM controller.StartApplication main
+INFO: Connected to DB...
+Aug 20, 2024 9:45:20 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:1)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Aug 20, 2024 10:23:09 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Aug 20, 2024 10:23:11 PM view.UserView <init>
+SEVERE: Could not create the View
+java.lang.RuntimeException: Uncompilable code - MOVE_SPEED has private access in model.GameSettings
+	at view.UserView.initialiseComponents(UserView.java:1)
+	at view.UserView.<init>(UserView.java:106)
+	at controller.StartApplication.main(StartApplication.java:82)
+
+Aug 20, 2024 10:23:11 PM controller.StartApplication main
+INFO: Connected to DB...
+Aug 20, 2024 10:23:11 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:1)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Sept 20, 2024 10:40:04 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Sept 20, 2024 10:40:06 PM view.UserView <init>
+SEVERE: Could not create the View
+java.lang.RuntimeException: Uncompilable code - MOVE_SPEED has private access in model.GameSettings
+	at view.UserView.initialiseComponents(UserView.java:114)
+	at view.UserView.<init>(UserView.java:106)
+	at controller.StartApplication.main(StartApplication.java:82)
+
+Sept 20, 2024 10:40:06 PM controller.StartApplication main
+INFO: Connected to DB...
+Sept 20, 2024 10:40:06 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:124)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Sept 20, 2024 10:44:17 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Sept 20, 2024 10:44:17 PM view.UserView <init>
+SEVERE: Could not create the View
+java.lang.RuntimeException: Uncompilable code - MOVE_SPEED has private access in model.GameSettings
+	at view.UserView.initialiseComponents(UserView.java:114)
+	at view.UserView.<init>(UserView.java:106)
+	at controller.StartApplication.main(StartApplication.java:82)
+
+Sept 20, 2024 10:44:17 PM controller.StartApplication main
+INFO: Connected to DB...
+Sept 20, 2024 10:44:17 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:124)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Sept 20, 2024 10:44:44 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Sept 20, 2024 10:44:45 PM view.UserView <init>
+SEVERE: Could not create the View
+java.lang.RuntimeException: Uncompilable code - MOVE_SPEED has private access in model.GameSettings
+	at view.UserView.initialiseComponents(UserView.java:114)
+	at view.UserView.<init>(UserView.java:106)
+	at controller.StartApplication.main(StartApplication.java:82)
+
+Sept 20, 2024 10:44:45 PM controller.StartApplication main
+INFO: Connected to DB...
+Sept 20, 2024 10:44:45 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:124)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Sept 20, 2024 10:53:07 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Sept 20, 2024 10:53:08 PM controller.StartApplication main
+INFO: Connected to DB...
+Sept 20, 2024 10:53:08 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:124)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Sept 20, 2024 10:53:11 PM controller.StartApplication main
+INFO: USER Logged in...[NO NAME]
+Sept 20, 2024 10:53:11 PM controller.StartApplication main
+INFO: About to make View visible..
+Sept 20, 2024 10:53:15 PM controller.StartApplication main
+INFO: About to start game thread..
+Sept 20, 2024 10:53:47 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Sept 20, 2024 10:53:48 PM controller.StartApplication main
+INFO: Connected to DB...
+Sept 20, 2024 10:53:48 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:124)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Sept 20, 2024 10:53:52 PM controller.StartApplication main
+INFO: USER Logged in...[NO NAME]
+Sept 20, 2024 10:53:52 PM controller.StartApplication main
+INFO: About to make View visible..
+Sept 20, 2024 10:53:55 PM controller.StartApplication main
+INFO: About to start game thread..
+Sept 20, 2024 11:00:46 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Sept 20, 2024 11:00:46 PM controller.StartApplication main
+INFO: Connected to DB...
+Sept 20, 2024 11:00:46 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:124)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Sept 20, 2024 11:00:48 PM controller.StartApplication main
+INFO: USER Logged in...[NO NAME]
+Sept 20, 2024 11:00:48 PM controller.StartApplication main
+INFO: About to make View visible..
+Sept 20, 2024 11:00:53 PM controller.StartApplication main
+INFO: About to start game thread..
+Sept 23, 2024 9:14:29 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Sept 23, 2024 9:14:30 PM controller.StartApplication main
+INFO: Connected to DB...
+Sept 23, 2024 9:14:30 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:1)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Sept 23, 2024 9:14:37 PM controller.StartApplication main
+INFO: USER Logged in...[NO NAME]
+Sept 23, 2024 9:14:37 PM controller.StartApplication main
+INFO: About to make View visible..
+Sept 23, 2024 9:14:41 PM controller.StartApplication main
+INFO: About to start game thread..
+Sept 23, 2024 9:15:16 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Sept 23, 2024 9:15:16 PM controller.StartApplication main
+INFO: Connected to DB...
+Sept 23, 2024 9:15:16 PM controller.StartApplication main
+SEVERE: During login...
+java.lang.RuntimeException: Uncompilable code - package org.jdesktop.layout does not exist
+	at view.JDialogLogin.initComponents(JDialogLogin.java:1)
+	at view.JDialogLogin.<init>(JDialogLogin.java:68)
+	at view.JDialogLogin.<init>(JDialogLogin.java:59)
+	at controller.StartApplication.main(StartApplication.java:100)
+
+Sept 23, 2024 9:15:18 PM controller.StartApplication main
+INFO: USER Logged in...[NO NAME]
+Sept 23, 2024 9:15:18 PM controller.StartApplication main
+INFO: About to make View visible..
+Sept 23, 2024 9:15:21 PM controller.StartApplication main
+INFO: About to start game thread..
+Sept 23, 2024 9:15:55 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Sept 23, 2024 9:15:56 PM controller.StartApplication main
+INFO: Connected to DB...
+Sept 23, 2024 9:15:56 PM controller.StartApplication main
+INFO: Logging in...
+Sept 23, 2024 9:16:19 PM controller.StartApplication main
+INFO: USER Logged in...[Test]
+Sept 23, 2024 9:16:19 PM controller.StartApplication main
+INFO: About to make View visible..
+Sept 23, 2024 9:16:22 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 7:32:37 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 7:32:38 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 7:32:38 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 7:32:47 PM controller.StartApplication main
+INFO: USER Logged in...[user1]
+Nov 23, 2024 7:32:48 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 7:32:49 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 7:34:06 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 7:34:07 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 7:34:07 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 7:55:29 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 7:55:30 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 7:55:31 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 7:55:38 PM controller.StartApplication main
+INFO: USER Logged in...[user1]
+Nov 23, 2024 7:55:38 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 7:55:39 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 7:55:54 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:55:58 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:56:05 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 7:56:06 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 7:56:06 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 7:56:12 PM controller.StartApplication main
+INFO: USER Logged in...[user1]
+Nov 23, 2024 7:56:12 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 7:56:14 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 7:56:17 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:56:21 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:56:33 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:56:37 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:56:44 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 7:56:44 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 7:56:45 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 7:56:51 PM controller.StartApplication main
+INFO: USER Logged in...[user2]
+Nov 23, 2024 7:56:51 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 7:56:53 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 7:58:34 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 7:58:35 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 7:58:36 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 7:58:42 PM controller.StartApplication main
+INFO: USER Logged in...[user1]
+Nov 23, 2024 7:58:42 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 7:58:44 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 7:58:53 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:58:57 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:59:03 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 7:59:04 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 7:59:04 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 7:59:09 PM controller.StartApplication main
+INFO: USER Logged in...[user1]
+Nov 23, 2024 7:59:09 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 7:59:11 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 7:59:15 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:59:19 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:59:36 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:59:39 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 7:59:46 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 7:59:46 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 7:59:47 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 7:59:53 PM controller.StartApplication main
+INFO: USER Logged in...[user2]
+Nov 23, 2024 7:59:54 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 7:59:55 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 8:00:16 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:16 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:16 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:29 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:29 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:29 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:29 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:40 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 8:00:41 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 8:00:41 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 8:00:46 PM controller.StartApplication main
+INFO: USER Logged in...[user2]
+Nov 23, 2024 8:00:46 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 8:00:48 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 8:00:55 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:55 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:55 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:58 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:59 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:59 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:00:59 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:05 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 8:01:06 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 8:01:07 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 8:01:13 PM controller.StartApplication main
+INFO: USER Logged in...[user3]
+Nov 23, 2024 8:01:13 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 8:01:15 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 8:01:21 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:25 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:25 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:25 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:25 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:26 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:32 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 8:01:33 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 8:01:33 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 8:01:38 PM controller.StartApplication main
+INFO: USER Logged in...[user3]
+Nov 23, 2024 8:01:38 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 8:01:40 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 8:01:41 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:44 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:44 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:44 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:45 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:45 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:01:52 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 8:01:53 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 8:01:53 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 8:01:59 PM controller.StartApplication main
+INFO: USER Logged in...[user1]
+Nov 23, 2024 8:01:59 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 8:02:00 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 8:02:04 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:08 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:08 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:08 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:08 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:09 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:22 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:25 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:25 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:25 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:26 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:26 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:33 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 8:02:34 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 8:02:34 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 8:02:40 PM controller.StartApplication main
+INFO: USER Logged in...[user2]
+Nov 23, 2024 8:02:40 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 8:02:42 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 8:02:50 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:50 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:50 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:54 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:54 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:54 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:54 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:02:54 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:07 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:07 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:07 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:10 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:11 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:11 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:11 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:11 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:18 PM controller.StartApplication main
+INFO: Starting SpaceInvaders...
+Nov 23, 2024 8:03:19 PM controller.StartApplication main
+INFO: Connected to DB...
+Nov 23, 2024 8:03:19 PM controller.StartApplication main
+INFO: Logging in...
+Nov 23, 2024 8:03:24 PM controller.StartApplication main
+INFO: USER Logged in...[user3]
+Nov 23, 2024 8:03:24 PM controller.StartApplication main
+INFO: About to make View visible..
+Nov 23, 2024 8:03:26 PM controller.StartApplication main
+INFO: About to start game thread..
+Nov 23, 2024 8:03:28 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:31 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:31 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:31 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:31 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:32 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:44 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:46 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:47 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:47 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:47 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
+Nov 23, 2024 8:03:47 PM dao.SpaceInvadersDAOText myDelete
+SEVERE: Unable to delete file-> user_high_scores.csv. Probably locked by another application.
